@@ -23,4 +23,6 @@ Using ```ifconfig``` command in Kali Linux
 URL for clone: http://www.facebook.com
 
 ### Results
+The log of running setoolkit displays the captured USERNAME and PASSWORD: 
 
+![image](<https://github.com/GiovaniSt/PhishingTest/blob/main/passwd.png>)
